@@ -879,12 +879,12 @@ CLI 通过数据集 ID 运行抓取工具，包括所有 Facebook 抓取工具�
 
 ## 适用于 Node.js 的 Facebook 抓取工具
 
-同一款 Facebook 抓取工具也提供 Node.js 版本：[brightdata/facebook-scraper-node](https://github.com/brightdata/facebook-scraper-node)。
+同一款 Facebook 抓取工具也提供 Node.js 版本：[bright-cn/facebook-scraper-node](https://github.com/bright-cn/facebook-scraper-node)。
 
 ## 更多 Bright Data 开源抓取工具
 
 其他以相同方式构建并提供实时验证示例的 Python 抓取工具：
 
 - [适用于 Python 的 Instagram 抓取工具](https://github.com/bright-cn/instagram-scraper-python)
-- [适用于 Python 的 TikTok 抓取工具](https://github.com/brightdata/tiktok-scraper)
+- [适用于 Python 的 TikTok 抓取工具](https://github.com/bright-cn/tiktok-scraper)
 - [适用于 Python 的 LinkedIn 抓取工具](https://github.com/bright-cn/linkedin-scraper-python)
