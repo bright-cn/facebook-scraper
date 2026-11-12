@@ -64,7 +64,7 @@ for post in call(f"/snapshot/{job['snapshot_id']}?format=json"):
 
 `include_errors=true` 让 API 将失效或私密主页报告为包含 `error` 键的行。API 默认关闭此选项，此时失败的主页与没有帖子的主页看起来相同。
 
-Bright Data [Python SDK](https://github.com/bright-cn/bright-data-sdk-python) 封装了 11 个 Facebook 爬虫中的 5 个，而 API 会拒绝其评论调用发送的 `num_of_comments` 输入。因此，此处及本软件包均使用普通 HTTP。
+Bright Data [Python SDK](https://github.com/bright-cn/sdk-python) 封装了 11 个 Facebook 爬虫中的 5 个，而 API 会拒绝其评论调用发送的 `num_of_comments` 输入。因此，此处及本软件包均使用普通 HTTP。
 
 ## 无需登录或 Graph API 即可抓取 Facebook
 
